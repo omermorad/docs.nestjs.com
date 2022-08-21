@@ -101,7 +101,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget faucibus felis
 Integer feugiat rhoncus nibh, in elementum dolor sodales a. Pellentesque non luctus dolor,
 id ultrices mauris. Nulla convallis diam rhoncus mauris ultrices malesuada.
 
-##### Working with `forardRef()`
+##### Working with `forwardRef()`
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget faucibus felis.
 Integer feugiat rhoncus nibh, in elementum dolor sodales a. Pellentesque non luctus dolor,
 id ultrices mauris. Nulla convallis diam rhoncus mauris ultrices malesuada.
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget faucibus felis
 Integer feugiat rhoncus nibh, in elementum dolor sodales a. Pellentesque non luctus dolor,
 id ultrices mauris. Nulla convallis diam rhoncus mauris ultrices malesuada.
 
-##### Working with `forardRef()`
+##### Working with `forwardRef()`
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget faucibus felis.
 Integer feugiat rhoncus nibh, in elementum dolor sodales a. Pellentesque non luctus dolor,
 id ultrices mauris. Nulla convallis diam rhoncus mauris ultrices malesuada.
