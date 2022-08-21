@@ -120,7 +120,7 @@ id ultrices mauris. Nulla convallis diam rhoncus mauris ultrices malesuada.
 #### What's the difference from Nest's built-in testing tools?
 
 Nest suggests some built in tools for creating tests, usually you need to use the `Test` \
-factory from `@nestjs/testing` ([example]()) and create a new testing module. This technique \
+factory from [`@nestjs/testing`](https://docs.nestjs.com/fundamentals/testing#testing-utilities) and create a new testing module. This technique \
 is great for creating integration/e2e tests, simply loading the whole module which includes all \
 the class dependencies
 
