@@ -1,21 +1,20 @@
 ### AutoMock
 
 #### Philosophy
-AutoMock is a stand-alone library. It allows complete isolation of class-dependencies
-during unit-testing. Automock provides on-the-fly, small DI container that contains
-only the class dependencies, or rather - a mock for each class dependency.
-By using the TypeScript reflection mechanism, AutoMock can to emit class metadata,
-(specifically using `@Injectable` decorator), and thus can perform different manipulations
-on the class dependencies.
+AutoMock is a stand-alone library. It allows complete isolation of class-dependencies during unit-testing. Automock provides an on-the-fly, small DI container with mocks of a classes dependencies.
 
-AutoMock cuts a lot of time when writing unit tests, and in addition, it also creates
-uniformity in the test writing style. It is important to say that AutoMock is intended
+By using the TypeScript reflection mechanism, AutoMock can emit class metadata (specifically using the `@Injectable` decorator), and thus can manipulate the class dependencies.
+
+AutoMock saves a lot of time when writing unit tests, and it also creates
+uniformity in the test writing style.
+
+Important note: AutoMock is intended
 for unit-tests only, and is not suitable for other types of tests, such as integration tests.
 
 
 #### Installation
 
-AutoMock does not require any additional setup with Nest,
+AutoMock doesn't require any additional setup with Nest,
 simply install it and start using it.
 
 ```bash
