@@ -22,7 +22,7 @@ simply install it and start using it.
 $ npm i -D @automock/jest
 ```
 
-> info **info** AutoMock only supports `jest`, soon there will be support for `sinon`
+> info **info** AutoMock only supports [`jest`](https://jestjs.io/), soon there will be support for [`sinon`](https://sinonjs.org/)
 
 #### Example
 
