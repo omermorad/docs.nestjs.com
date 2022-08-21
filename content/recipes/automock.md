@@ -19,7 +19,7 @@ AutoMock does not require any additional setup with Nest,
 simply install it and start using it.
 
 ```bash
-$ npm i @automock/jest
+$ npm i -D @automock/jest
 ```
 
 > info **info** AutoMock only supports `jest`, soon there will be support for `sinon`
